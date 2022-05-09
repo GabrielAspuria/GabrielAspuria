@@ -9,7 +9,7 @@
 * Contact me at gabrielmaspuria@gmail.com 
 
 ### Technologies:
-JavaScript | Python | Flask | Express | Sequelize | SQL | PostgreSQL | ReactJS/Redux | SQLAlchemy | Flask | AWS
+JavaScript | Python | Flask | Express | SQL | PostgreSQL | ReactJS/Redux | SQLAlchemy | Flask | AWS
 
 
 <!--
