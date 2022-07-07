@@ -5,7 +5,7 @@
 
 * I'm a software engineer from California.
 * Graduate from the September 2021 cohort of [App Academy](https://www.appacademy.io/).
-* An amazing team setting is what every company should strive to have and also where I thrive in.
+* I thrive working in groups and would love to join an amazing team to collaborate with.
 * Contact me at gabrielmaspuria@gmail.com 
 
 ### Technologies:
