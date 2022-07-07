@@ -4,7 +4,7 @@
 [AngelList](https://angel.co/u/gabriel-aspuria)
 
 * I'm a software engineer from California.
-* Graduate from the September 2021 cohort of App Academy.
+* Graduate from the September 2021 cohort of [App Academy](https://www.appacademy.io/).
 * An amazing team setting is what every company should strive to have and also where I thrive in.
 * Contact me at gabrielmaspuria@gmail.com 
 
