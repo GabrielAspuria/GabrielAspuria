@@ -6,7 +6,7 @@
 - 💬 Ask me about overcoming depression, obesity, and jumping head first into a field I had zero experience in.
 - 📫 How to reach me:  gabrielmaspuria@gmail.com [LinkedIn](https://www.linkedin.com/in/gabriel-aspuria-032398226/) [AngelList](https://angel.co/u/gabriel-aspuria)
 - 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I've been playing guitar for 15 years and have trained a class of beginner guitarists to perform in a concert.
+- ⚡ Fun fact: I've been playing guitar for 15 years and trained a group of beginner guitarists for a concert performance.
 
 ### Technologies:
 JavaScript | Python | Flask | Express | SQL | PostgreSQL | ReactJS/Redux | SQLAlchemy | Flask | AWS
