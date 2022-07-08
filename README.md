@@ -11,7 +11,7 @@
 ### Technologies:
 JavaScript | Python | Flask | Express | SQL | PostgreSQL | ReactJS/Redux | SQLAlchemy | Flask | AWS
 
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAspuria&langs_count=7&show_icons=true&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>]
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAspuria&langs_count=7&show_icons=true&theme=radical&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"/>
 
 <!--
 **GabrielAspuria/GabrielAspuria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
